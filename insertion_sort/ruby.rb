@@ -10,3 +10,4 @@ a.each_with_index do |num, i|
   end
   a[j + 1] = key
 end
+puts a
