@@ -26,6 +26,7 @@ using ll = long long;
 #define int ll
 #define P pair<ll, ll>
 #define Pvec vector<P>
+#define rep(i, n) for (int i=0; i < (n); i++)
 
 int main() {
     return 0;
