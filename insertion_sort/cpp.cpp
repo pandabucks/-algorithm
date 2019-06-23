@@ -1,4 +1,3 @@
-// copy by https://www.geeksforgeeks.org/insertion-sort/
 #include <stdio.h>
 #include <math.h>
 
